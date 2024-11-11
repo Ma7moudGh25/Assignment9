@@ -1,0 +1,14 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.center{
+  text-align: center;
+}
+button{
+  background-color: blue;
+  color: white;
+  padding:20px 60px;
+}
